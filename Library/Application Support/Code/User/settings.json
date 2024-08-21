@@ -1,0 +1,96 @@
+{
+    "cmake.configureOnOpen": true,
+    "launch": {
+        "cwd": "${fileDirname}",
+        "configurations": [],
+        "compounds": []
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "editor.folding": false,
+    "workbench.startupEditor": "none",
+    "editor.smoothScrolling": true,
+    "editor.minimap.enabled": false,
+    "debug.internalConsoleOptions": "neverOpen",
+    "comments.openView": "never",
+    "window.density.editorTabHeight": "compact",
+    "workbench.activityBar.location": "top",
+    "window.commandCenter": false,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.glyphMargin": false,
+    "files.autoSave": "afterDelay",
+    "explorer.autoReveal": false,
+    "explorer.compactFolders": false,
+    "git.confirmSync": false,
+    "editor.accessibilitySupport": "off",
+    "cmake.options.statusBarVisibility": "icon",
+    "workbench.editorAssociations": {
+        "*.db": "default"
+    },
+    "workbench.colorTheme": "Shades of Purple (Super Dark)",
+    "git.openRepositoryInParentFolders": "never",
+    "symbols.hidesExplorerArrows": false,
+    "editor.cursorBlinking":"phase",
+    "editor.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.fontFamily": "IBM Plex Mono, Fira Code, JetBrains Mono, Monaspace Neon, Maple Mono, MonoLisa, Ubuntu Mono, Operator mono lig, DejaVu Sans Mono, Fira Code, monoki, Hasklig, PragmataPro, IBM Plex Mono, Victor Mono, Roboto Mono, monospace",
+    "editor.fontLigatures": true,
+    "editor.inlayHints.fontFamily": "PragmataPro",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "entity.name.type.class",
+                    "keyword",
+                    "constant",
+                    "storage.modifier",
+                    "storage.type.class.js"
+                ],
+                "settings": {
+                    "fontStyle": "italic"
+                }
+            },
+            {
+                "scope": [
+                    "invalid",
+                    "keyword.operator",
+                    "constant.numeric.css",
+                    "keyword.other.unit.px.css",
+                    "constant.numeric.decimal.js",
+                    "constant.numeric.json"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            }
+        ]
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "todohighlight.keywords": [],
+    "tabnine.experimentalAutoImports": true,
+    "debugpy.debugJustMyCode": false,
+    "python.poetryPath": "poetry",
+    "editor.unicodeHighlight.allowedLocales": {
+        "ru": true
+    },
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 13.5,
+    "terminal.integrated.fontFamily": "MesloLGS Nerd Font Mono",
+    "workbench.iconTheme": "symbols",
+    "editor.unicodeHighlight.includeComments": false,
+    "workbench.productIconTheme": "icons-carbon",
+    "window.titleBarStyle": "custom",
+    "window.customTitleBarVisibility": "auto",
+    "python.defaultInterpreterPath": "/Users/blessedjjj/Library/Caches/pypoetry/virtualenvs/infograph-nqUqaVJg-py3.11",
+    "workbench.colorCustomizations": {
+        "terminal.background": "#00000000"
+    },
+    "workbench.settings.applyToAllProfiles": [
+        "workbench.colorCustomizations"
+    ]
+}

@@ -40,7 +40,24 @@
                                 "type": "basic"
                             }
                         ]
-                    }
+                    },
+                    {
+    "description": "F6 to toggle Do Not do_not_disturb",
+    "manipulators": [
+        {
+            "type": "basic",
+            "from": {
+                "key_code": "f6"
+            },
+            "to": [
+                {
+                    "consumer_key_code": "do_not_disturb"
+                }
+            ]
+        }
+    ]
+}
+                    
                 ]
             },
             "devices": [
@@ -146,7 +163,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f6"
+                            "consumer_key_code": "do_not_disturb"
                         }
                     ]
                 },

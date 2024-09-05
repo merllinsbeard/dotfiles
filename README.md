@@ -1,7 +1,5 @@
 # my own dotfiles
-- yabai 
-- skhd
+- aerospace 
 - karabiners
 - alacritty
-- JankyBorders
 - powerlevel10k

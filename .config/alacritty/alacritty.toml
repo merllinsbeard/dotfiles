@@ -14,6 +14,8 @@ opacity = 0.95
 option_as_alt = "Both"
 #dynamic_padding = true 
 #startup_mode = "Maximized"
+[scrolling]
+history = 20000
 
 [font]
 normal = { family = "Hack Nerd Font Mono", style = "Regular" }
